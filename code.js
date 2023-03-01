@@ -17,3 +17,37 @@
 /** Comments can make code readable,
  * easy to refuse and information
  */
+
+// ========================================== //
+
+let game;
+let bank;
+let park;
+let garage;
+
+// ========================================== //
+
+let animanl = 'dog';
+let city = 'Madrid';
+let bird = 'eagle';
+let email = 'jcf.daw@gmail.com';
+
+// ========================================== //
+
+let firstName = 'Juanqui';
+let lastName = 'Fernández';
+let maritalStatus = 'Single';
+let country = 'Spain';
+let age = 27;
+
+// ========================================== //
+
+let name = 'Juanqui', lName = 'Fernández', marital = 'single', ctry = 'Spain', myActualAge = 25;
+
+
+// ========================================== //
+
+let myAge = 27;
+let yourAge = 30;
+
+console.log(myAge, yourAge);
